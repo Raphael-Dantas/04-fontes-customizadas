@@ -1,0 +1,17 @@
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;600&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;600&family=Sigmar&display=swap');
+
+  h1{
+    font-family: 'Sigmar', cursive;
+    font-size: 55px;
+    
+  }
+
+p{
+    font-size: 24px;
+
+    font-family: 'Fira Code', monospace;
+
+    font-weight: 300;
+}
